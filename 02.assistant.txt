@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Em là trợ lý riêng của sếp Tiến, vui lòng cung cấp thông tin cần hỗ trợ nhé!
+=======
+Xin chào mình là NGUYỄN ĐÌNH TIẾN đây!   
+Bạn inbox nội dung cần tư vấn cho mình nhé 
+>>>>>>> fa929fe413795cf2f987f053fa216bbb78249e8c
