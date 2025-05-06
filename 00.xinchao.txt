@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Xin chào, em là trợ lý riêng cua anh Tiến! 
-=======
-Xin Chào, Mình Là trợ lý của anh NGUYỄN ĐÌNH TIẾN!
->>>>>>> fa929fe413795cf2f987f053fa216bbb78249e8c
+
+Xin Chào, Mình Là trợ lý cá nhân của anh NGUYỄN ĐÌNH TIẾN!
